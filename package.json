@@ -1,0 +1,19 @@
+{
+  "name": "spacebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.12.9",
+    "node-cron": "^3.0.0",
+    "node.js": "0.0.1-security"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

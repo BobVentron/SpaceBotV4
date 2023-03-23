@@ -1,0 +1,8 @@
+{
+    "annonce":{
+        "1" : "Vous avez maintenant 10 secondes pour transmettre votre annonce...",
+        "2" : "Attention il vous reste 10 secondes pour transmettre votre annonce...",
+        "3" : "OHHH dépeche vous il vous reste 10 secondes pour transmettre votre annonce",
+        "4" : "il vous reste 10 secondes pour transmettre votre annonce"
+    } 
+}

@@ -1,0 +1,195 @@
+{
+  "rockets": [
+    {
+      "name": "t1",
+      "properties": {
+        "price": 7500,
+        "pds": 500,
+        "ergol": 0,
+        "payload": 2500
+      }
+    },
+    {
+      "name": "t2",
+      "properties": {
+        "price": 30000,
+        "pds": 3000,
+        "ergol": 0,
+        "payload": 3500
+      }
+    },
+    {
+      "name": "t3",
+      "properties": {
+        "price": 80000,
+        "pds": 5000,
+        "ergol": 0,
+        "payload": 5000
+      }
+    },
+    {
+      "name": "t4",
+      "properties": {
+        "price": 180000,
+        "pds": 80000,
+        "ergol": 1200,
+        "payload": 8500
+      }
+    },
+    {
+      "name": "t5",
+      "properties": {
+        "price": 300000,
+        "pds": 125000,
+        "ergol": 1700,
+        "payload": 14000
+      }
+    },
+    {
+      "name": "t6",
+      "properties": {
+        "price": 450000,
+        "pds": 200000,
+        "ergol": 2300,
+        "payload": 20000
+      }
+    }
+  ],
+  "pdt": [
+    {
+      "name": "usa",
+      "properties": {
+        "price": 7000
+      }
+    },
+    {
+      "name": "russie",
+      "properties": {
+        "price": 7000
+      }
+    },
+    {
+      "name": "chine",
+      "properties": {
+        "price": 6000
+      }
+    },
+    {
+      "name": "guyane",
+      "properties": {
+        "price": 5500
+      }
+    }
+  ],
+  "actions": [
+    {
+      "name": "arianeespaceniv1",
+      "properties": {
+        "price": 5000
+      }
+    },
+    {
+      "name": "blueoriginniv1",
+      "properties": {
+        "price": 10000
+      }
+    },
+    {
+      "name": "spacexniv1",
+      "properties": {
+        "price": 20000
+      }
+    },
+    {
+      "name": "arianeespaceniv2",
+      "properties": {
+        "price": 25000
+      }
+    },
+    {
+      "name": "blueoriginniv2",
+      "properties": {
+        "price": 30000
+      }
+    },
+    {
+      "name": "spacexniv2",
+      "properties": {
+        "price": 40000
+      }
+    }
+  ],
+  "recherches": [
+    {
+      "name": "css",
+      "properties": {
+        "price": 5000
+      }
+    },
+    {
+      "name": "iss",
+      "properties": {
+        "price": 20000
+      }
+    },
+    {
+      "name": "gateway",
+      "properties": {
+        "price": 40000
+      }
+    }
+  ],
+  "ergols": [
+    {
+      "name": "usineergol1",
+      "properties": {
+        "price": 5500
+      }
+    },
+    {
+      "name": "usineergol2",
+      "properties": {
+        "price": 12000
+      }
+    },
+    {
+      "name": "usineergol3",
+      "properties": {
+        "price": 25000
+      }
+    }
+  ],
+  "market": [
+    {
+      "name": "guerrefroide",
+      "properties": {
+        "price": 800
+      }
+    },
+    {
+      "name": "sabotage",
+      "properties": {
+        "price": 1500
+      }
+    },
+    {
+      "name": "reparage",
+      "properties": {
+        "price": 500,
+        "pds": 500
+      }
+    },
+    {
+      "name": "renommage",
+      "properties": {
+        "price": 2500
+      }
+    },
+    {
+      "name": "annonce",
+      "properties": {
+        "price": 1500
+      }
+    }
+  ]
+}
